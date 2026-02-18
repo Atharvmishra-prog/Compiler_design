@@ -11,7 +11,7 @@ This repository contains lab programs and implementations for the Compiler Desig
 - Code Optimization
 
 ## Technologies
-- C / C++
+- C
 - GCC
 
 ## Author
