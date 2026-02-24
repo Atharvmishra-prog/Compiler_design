@@ -1,6 +1,6 @@
 # Compiler Design Lab
 
-This repository contains lab programs and implementations for the Compiler Design course.
+This repository contains lab programs and implementations for the Compiler Design course
 
 ## Topics Covered
 - Lexical Analysis
