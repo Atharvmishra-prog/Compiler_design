@@ -15,4 +15,4 @@ This repository contains lab programs and implementations for the Compiler Desig
 - GCC
 
 ## Author
-Atharv Mishra
+Atharv
